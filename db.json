@@ -67,6 +67,4 @@
   {"Id":11,"Title":"Funhouse, The","StaffId":11,"ContarctId":11,"DisciplineId":50}],  "activities":[{"Id":1,"Code":"IDR","Name":"Erick","Description":"12/21/2017","MilestoneId":"1"},
   {"Id":2,"Code":"YER","Name":"Charissa","Description":"3/7/2018","MilestoneId":"2"},  {"Id":3,"Code":"EUR","Name":"Enrichetta","Description":"3/11/2018","MilestoneId":"3"},
   {"Id":4,"Code":"EUR","Name":"Erinna","Description":"12/25/2017","MilestoneId":"4"},  {"Id":5,"Code":"CZK","Name":"Lucienne","Description":"8/19/2018","MilestoneId":"5"},
-  {"Id":6,"Code":"UZS","Name":"Carline","Description":"9/9/2018","MilestoneId":"6"},  {"Id":7,"Code":"CNY","Name":"Grazia","Description":"9/14/2018","MilestoneId":"7"},
-  {"Id":8,"Code":"CAD","Name":"Noble","Description":"6/30/2018","MilestoneId":"8"},  {"Id":9,"Code":"IDR","Name":"Norrie","Description":"11/2/2018","MilestoneId":"9"},
-  {"Id":10,"Code":"CNY","Name":"Christi","Description":"5/30/2018","MilestoneId":"10"},  {"Id":11,"Code":"IDR","Name":"Leonerd","Description":"8/11/2018","MilestoneId":"11"}]}
+  {"Id":6,"Code":"UZS","Name":"Carline","Description":"9/9/2018","MilestoneId":"6"},  {"Id":7,"Code":"CNY","Name":"Grazia","Description":"9/14/2018","MilestoneId":"7"}]}
