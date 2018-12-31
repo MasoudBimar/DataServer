@@ -1,0 +1,10 @@
+{"disciplines" :[{"Id":1,"Name":"Fenelia","Abbreviation":"a","CompanyId":1},
+{"Id":2,"Name":"Killian","Abbreviation":"b","CompanyId":2},
+{"Id":3,"Name":"Bucky","Abbreviation":"c","CompanyId":3},
+{"Id":4,"Name":"Kristos","Abbreviation":"d","CompanyId":4},
+{"Id":5,"Name":"Wye","Abbreviation":"e","CompanyId":5},
+{"Id":6,"Name":"Domenico","Abbreviation":"f","CompanyId":6},
+{"Id":7,"Name":"Morrie","Abbreviation":"g","CompanyId":7},
+{"Id":8,"Name":"Kim","Abbreviation":"h","CompanyId":8},
+{"Id":9,"Name":"Euell","Abbreviation":"i","CompanyId":9},
+{"Id":10,"Name":"Rosetta","Abbreviation":"j","CompanyId":10}]}
