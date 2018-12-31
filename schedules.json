@@ -1,0 +1,10 @@
+{"schedules" : [{"Id":1,"ActivitiesId":1,"StartDate":"12/24/2018","FinishDate":"12/28/2018"},
+{"Id":2,"ActivitiesId":2,"StartDate":"11/13/2018","FinishDate":"11/15/2018"},
+{"Id":3,"ActivitiesId":3,"StartDate":"12/20/2018","FinishDate":"12/26/2018"},
+{"Id":4,"ActivitiesId":4,"StartDate":"10/20/2018","FinishDate":"10/22/2018"},
+{"Id":5,"ActivitiesId":5,"StartDate":"2/21/2018","FinishDate":"7/18/2018"},
+{"Id":6,"ActivitiesId":6,"StartDate":"3/18/2018","FinishDate":"8/10/2018"},
+{"Id":7,"ActivitiesId":7,"StartDate":"12/16/2017","FinishDate":"5/5/2018"},
+{"Id":8,"ActivitiesId":8,"StartDate":"3/7/2018","FinishDate":"11/2/2018"},
+{"Id":9,"ActivitiesId":9,"StartDate":"5/22/2018","FinishDate":"5/14/2018"},
+{"Id":10,"ActivitiesId":10,"StartDate":"5/28/2018","FinishDate":"8/14/2018"}]}
