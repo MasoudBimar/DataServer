@@ -7,9 +7,7 @@
 {"Id":7,"Name":"g","ActualProgress":7,"Deviation":7,"ScheduleProgress":7,"ContractId":1},
 {"Id":8,"Name":"h","ActualProgress":8,"Deviation":8,"ScheduleProgress":8,"ContractId":2},
 {"Id":9,"Name":"i","ActualProgress":9,"Deviation":9,"ScheduleProgress":9,"ContractId":1},
-{"Id":10,"Name":"j","ActualProgress":10,"Deviation":10,"ScheduleProgress":10,"ContractId":2},
-{"Id":11,"Name":"k","ActualProgress":11,"Deviation":11,"ScheduleProgress":11,"ContractId":2},
-{"Id":12,"Name":"l","ActualProgress":12,"Deviation":12,"ScheduleProgress":12,"ContractId":1}],
+{"Id":10,"Name":"j","ActualProgress":10,"Deviation":10,"ScheduleProgress":10,"ContractId":2}],
 
 "contract":[{"Id":1,"Name":"ساخت و ساز","Description":"قرارد داد سوری ساخت و ساز","ProjectId":1,"Code":"1"},
 {"Id":2,"Name":"a","Description":"1","ProjectId":1,"Code":"2"},
@@ -55,11 +53,7 @@
 {"Id":3,"FirstName":"c","LastName":"m","IsActive":true,"Email":"c@m.com","MustChangePass":false,"Username":"c","Password":"osucb3","CreateDate":"12/21/2017"},
 {"Id":4,"FirstName":"d","LastName":"n","IsActive":false,"Email":"d@n.de","MustChangePass":true,"Username":"d","Password":"L4AUUclz","CreateDate":"3/11/2018"},
 {"Id":5,"FirstName":"e","LastName":"o","IsActive":true,"Email":"e@o.com","MustChangePass":false,"Username":"e","Password":"EzZIngb","CreateDate":"9/6/2018"},
-{"Id":6,"FirstName":"f","LastName":"p","IsActive":false,"Email":"g@p.com","MustChangePass":false,"Username":"f","Password":"BXrTI1nyaL","CreateDate":"5/8/2018"},
-{"Id":7,"FirstName":"g","LastName":"q","IsActive":false,"Email":"g@q.com","MustChangePass":true,"Username":"g","Password":"lPGqpWFEEWou","CreateDate":"6/21/2018"},
-{"Id":8,"FirstName":"h","LastName":"r","IsActive":false,"Email":"h@r.com.br","MustChangePass":false,"Username":"h","Password":"dLSLjQqeTH","CreateDate":"3/22/2018"},
-{"Id":9,"FirstName":"i","LastName":"s","IsActive":true,"Email":"i@s.com","MustChangePass":true,"Username":"i","Password":"8xmgBu4CQk7","CreateDate":"5/23/2018"},
-{"Id":10,"FirstName":"j","LastName":"t","IsActive":true,"Email":"j@t.com","MustChangePass":true,"Username":"j","Password":"9LljM9bwu06y","CreateDate":"10/6/2018"}],
+{"Id":6,"FirstName":"f","LastName":"p","IsActive":false,"Email":"g@p.com","MustChangePass":false,"Username":"f","Password":"BXrTI1nyaL","CreateDate":"5/8/2018"}],
 
 "schedule" : [{"Id":1,"ActivitiesId":1,"StartDate":"12/24/2018","FinishDate":"12/28/2018"},
 {"Id":2,"ActivitiesId":2,"StartDate":"11/13/2018","FinishDate":"11/15/2018"},
@@ -81,8 +75,7 @@
 {"Id":7,"ActivitiesId":7,"Day":"3/13/2018","IsDone":true,"PersonInChargeId":7},
 {"Id":8,"ActivitiesId":8,"Day":"11/9/2018","IsDone":true,"PersonInChargeId":8},
 {"Id":9,"ActivitiesId":9,"Day":"2/26/2018","IsDone":false,"PersonInChargeId":9},
-{"Id":10,"ActivitiesId":10,"Day":"6/27/2018","IsDone":false,"PersonInChargeId":10},
-{"Id":11,"ActivitiesId":11,"Day":"10/14/2018","IsDone":false,"PersonInChargeId":11}],
+{"Id":10,"ActivitiesId":10,"Day":"6/27/2018","IsDone":false,"PersonInChargeId":10}],
 
 "milestone" :[{"Id":1,"Code":"a","Name":"ساخت ساختمان","MeetDate":"11/22/2019","Description":"ساخت یک ساختمان جدید","DisciplineId":1,"ContractId":1},
 {"Id":2,"Code":"RUB","Name":"Torrin","MeetDate":"7/1/2018","Description":"1","DisciplineId":1,"ContractId":1},
@@ -93,9 +86,7 @@
 {"Id":7,"Code":"KRW","Name":"Inessa","MeetDate":"6/26/2018","Description":"6","DisciplineId":4,"ContractId":2},
 {"Id":8,"Code":"RUB","Name":"Donica","MeetDate":"5/13/2018","Description":"7","DisciplineId":4,"ContractId":2},
 {"Id":9,"Code":"SEK","Name":"Henriette","MeetDate":"2/14/2018","Description":"8","DisciplineId":5,"ContractId":2},
-{"Id":10,"Code":"DOP","Name":"Erika","MeetDate":"4/12/2018","Description":"9","DisciplineId":5,"ContractId":2},
-{"Id":11,"Code":"SEK","Name":"Erroll","MeetDate":"5/18/2018","Description":"10","DisciplineId":5,"ContractId":2},
-{"Id":12,"Code":"EUR","Name":"Biron","MeetDate":"1/25/2018","Description":"11","DisciplineId":6,"ContractId":3}],
+{"Id":10,"Code":"DOP","Name":"Erika","MeetDate":"4/12/2018","Description":"9","DisciplineId":5,"ContractId":2}],
 
 "diciplines" :[{"Id":1,"Name":"Fenelia","Abbreviation":"a","CompanyId":1},
 {"Id":2,"Name":"Killian","Abbreviation":"b","CompanyId":2},
@@ -130,7 +121,7 @@
 {"Id":9,"Title":"Title1","StaffId":9,"ContarctId":9,"DisciplineId":9,"Code":"9"},
 {"Id":10,"Title":"Title1","StaffId":10,"ContarctId":10,"DisciplineId":10,"Code":"10"}],
   
-"activity" :[{"Id":1,"Code":"IDR","Name":"ساخت پی ساختمان","Description":"ساخت یک ساختمان مجهز","MilestoneId":"1"},
+"activity" :[{"Id":1,"Code":"IDR","Name":"ساخت پی ساختمان","Description":"ساخت یک ساختمان","MilestoneId":"1"},
 {"Id":2,"Code":"YER","Name":"ساخت ستون ها","Description":"ساخت ستون ها","MilestoneId":"1"},
 {"Id":3,"Code":"EUR","Name":"ساخت سقف","Description":"ساخت سقف","MilestoneId":"1"},
 {"Id":4,"Code":"EUR","Name":"ساخت راه پله","Description":"ساخت راه پله","MilestoneId":"2"},
@@ -139,7 +130,4 @@
 {"Id":7,"Code":"CNY","Name":"Grazia","Description":"9/14/2018","MilestoneId":"3"},
 {"Id":8,"Code":"CAD","Name":"Noble","Description":"6/30/2018","MilestoneId":"3"},
 {"Id":9,"Code":"IDR","Name":"Norrie","Description":"11/2/2018","MilestoneId":"3"},
-{"Id":10,"Code":"CNY","Name":"Christi","Description":"5/30/2018","MilestoneId":"4"},
-{"Id":11,"Code":"IDR","Name":"Leonerd","Description":"8/11/2018","MilestoneId":"4"},
-{"Id":12,"Code":"EUR","Name":"Xavier","Description":"10/24/2018","MilestoneId":"4"},
-{"Id":13,"Code":"UAH","Name":"Abie","Description":"4/6/2018","MilestoneId":"4"}]}
+{"Id":10,"Code":"CNY","Name":"Christi","Description":"5/30/2018","MilestoneId":"4"}]}
