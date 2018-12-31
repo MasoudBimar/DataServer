@@ -81,7 +81,7 @@
  "inCharge" :[{"Id":1,"Title":"Title1","StaffId":1,"ContarctId":1,"DisciplineId":1 ,"Code":"1"},
 {"Id":2,"Title":"T1","StaffId":2,"ContarctId":2,"DisciplineId":2,"Code":"2"},
 {"Id":3,"Title":"T1","StaffId":3,"ContarctId":3,"DisciplineId":3,"Code":"3"},
-{"Id":4,"Title":"T1":4,"StaffId","ContarctId":4,"DisciplineId":4,"Code":"4"},
+{"Id":4,"Title":"T1","StaffId":4,"ContarctId":4,"DisciplineId":4,"Code":"4"},
 {"Id":5,"Title":"T1","StaffId":5,"ContarctId":5,"DisciplineId":5,"Code":"5"},
 {"Id":6,"Title":"T1","StaffId":6,"ContarctId":6,"DisciplineId":6,"Code":"6"},
 {"Id":7,"Title":"T1","StaffId":7,"ContarctId":7,"DisciplineId":7,"Code":"7"},
